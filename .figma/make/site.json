@@ -1,0 +1,10 @@
+{
+  "description": "Discover and search trending food and drink recommendations, browse curated categories, save favorites, and follow updates tailored for restaurant industry professionals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
